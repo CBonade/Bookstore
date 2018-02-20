@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named posix - imported by os, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named _posixsubprocess - imported by subprocess, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named readline - imported by cmd, code, pdb, D:\Downloads\Python\projects\Bookstore\bookstore.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named _winreg - imported by platform, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named 'java.lang' - imported by platform, D:\Downloads\Python\projects\Bookstore\bookstore.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named termios - imported by tty, D:\Downloads\Python\projects\Bookstore\bookstore.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named _dummy_threading - imported by dummy_threading, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named org - imported by copy, D:\Downloads\Python\projects\Bookstore\bookstore.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\Downloads\Python\projects\Bookstore\bookstore.py, netrc, getpass
+missing module named 'org.python' - imported by pickle, D:\Downloads\Python\projects\Bookstore\bookstore.py, xml.sax
